@@ -36,3 +36,4 @@ function agregarAmigo() {
     inputAmigo.focus();
 }
 
+oki
